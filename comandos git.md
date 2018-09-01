@@ -52,4 +52,6 @@ Switched to a new branch "sf"
 Agora, seu ramo local sfirá automaticamente empurrar e puxar de origin/serverfix.
 
 
+- ainda tem mais comandos
+
 
